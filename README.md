@@ -10,7 +10,7 @@ Este es un proyecto en JavaScript que permite agregar nombres de amigos a una li
 - Muestra automáticamente la lista actualizada en la interfaz de usuario.
 - Función de sorteo aleatorio para seleccionar un "amigo secreto".
 - Prevención de errores con alertas cuando:
-  - Se intenta agregar un nombre vacío.
+  - Se intenta añadir un amigo con el campo vacío.
   - Se intenta sortear sin haber agregado amigos previamente.
 - Admite la entrada de nombres mediante el botón de agregar o la tecla Enter.
 - Interfaz sencilla y funcional basada en HTML, CSS y JavaScript.
