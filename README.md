@@ -1,7 +1,7 @@
 
 ![Captura de pantalla 2025-03-18 031040](https://github.com/user-attachments/assets/9e568c1f-d3d2-45d0-95ec-8a09004d883e)
 
-# Challenge de Alura LATAM ¨Amigo Secreto¨!
+# Challenge de Alura LATAM ¨Amigo Secreto¨
 
 Este es un proyecto en JavaScript que permite agregar nombres de amigos a una lista y luego sortear aleatoriamente uno de ellos como "amigo secreto".
 
