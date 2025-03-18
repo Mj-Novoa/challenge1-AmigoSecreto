@@ -1,4 +1,7 @@
-# Challenge de Alura LATAM ¨Amigo Secreto¨
+
+![Captura de pantalla 2025-03-18 031040](https://github.com/user-attachments/assets/9e568c1f-d3d2-45d0-95ec-8a09004d883e)
+
+# Challenge de Alura LATAM ¨Amigo Secreto¨!
 
 Este es un proyecto en JavaScript que permite agregar nombres de amigos a una lista y luego sortear aleatoriamente uno de ellos como "amigo secreto".
 
@@ -21,14 +24,36 @@ Este es un proyecto en JavaScript que permite agregar nombres de amigos a una li
   - De lo contrario presionar la tecla **Enter** para agregarlo automáticamente.
 - Si el usuario intenta agregar un nombre vacío, aparecerá una **alerta** indicando que debe ingresar un nombre válido.
 
+
+![ezgif-420408901878e4](https://github.com/user-attachments/assets/af91d4c6-a70b-4d0f-b38e-f47c29fea13e)
+
+
+
+
 ### **2. Visualizar la Lista de Amigos**📄
+
 - A medida que los nombres se agregan, la lista se actualizará automáticamente en la interfaz, mostrando los nombres ingresados en forma de una lista ordenada.
+
+
+![ezgif-4f1dd1a197ff32](https://github.com/user-attachments/assets/3c88bdae-f329-4b04-b19b-b7dd7728a9de)
+
+
 
 ### **3. Realizar el Sorteo del Amigo Secreto**🎲
 - Una vez que haya al menos un nombre en la lista, el usuario podrá presionar el botón **"Sortear Amigo Secreto"**.
 - El sistema seleccionará aleatoriamente un nombre de la lista y lo mostrará en pantalla con el mensaje:  
   **"El amigo secreto sorteado es: [nombre del amigo]"**.
+
+
+![ezgif-4f95960dcdb58a](https://github.com/user-attachments/assets/88c480ea-4072-41fd-90b2-b3d54103a078)
+
+
+  
 - Si el usuario intenta realizar el sorteo sin haber agregado nombres, se mostrará una **alerta** pidiéndole que agregue al menos un nombre antes de sortear.
+
+![ezgif-4b25577126c5fc](https://github.com/user-attachments/assets/af338d27-7748-4e83-a3b7-460de148b08c)
+
+
 
 ### **4. Reintentar el Sorteo**♻️
 - El usuario puede seguir agregando más amigos a la lista y repetir el sorteo cuantas veces quiera.
